@@ -3,3 +3,12 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.app {
+  width: 50%;
+  margin: 3rem auto;
+}
+.flex-wrapper {
+  display: flex;
+  justify-content: space-between;
+}
